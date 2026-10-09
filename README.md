@@ -1,5 +1,5 @@
 
- Hello, curious minds!
+🪷<b> Hello, curious minds!</b>
 <br><br>BCA Graduate | Aspiring Web Developer. <br><br>Currently working on web development projects. <br><br>I'm looking to collaborate on frontend and Power BI<br><br>I love turning simple ideas into clean, user-friendly websites.
 
 
